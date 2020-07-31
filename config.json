@@ -1,0 +1,20 @@
+{
+  "params":
+  {
+   "local_server": "True",
+    "local_uri": "mysql://root:@localhost/flaskcoding",
+    "prod_uri": "mysql://root:@localhost/flaskcoding",
+    "fb_url": "https://facebook.com/deepak rajak",
+    "twitter_url": "https://twitter.com/@deepakparsabad2",
+    "github_url": "https://github.com/deepak rajak",
+    "blog": "Deepak Blogs",
+    "gmail-user": "deepakparsabad2@gmail.com",
+    "gmail-password": "9934149170",
+    "about_text": "hii i am deepak rajak and i am software development",
+    "no_of_post": 3,
+    "login_image": "pic.svg",
+    "admin_user": "admin",
+    "admin_pass": "admin",
+   "upload_location": "D:\\python\\flask\\static"
+  }
+}
